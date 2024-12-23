@@ -17,3 +17,4 @@ results - директория с анализом результатов
 ## Ссылки на источники
 
 1. [Статья по анонимизации данных](https://dspace.cvut.cz/bitstream/handle/10467/95046/F8-BP-2021-Jenicek-Jan-thesis.pdf?sequence=-1&isAllowed=y)
+2. [Репозиторий Yandex по сдвигу распределений относительно таймфреймов](https://github.com/yandex-research/tabred)
