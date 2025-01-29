@@ -14,6 +14,10 @@ results - директория с анализом результатов
 2. [Анализ распределений графовых характеристик](https://colab.research.google.com/drive/1JbERBhpfMoZlE6DS425IRTEgFJHJ-XQu?usp=sharing)
 3. [Генерация синтетики](https://colab.research.google.com/drive/1AOblaZyryFf6pLTpfdv1Ka4gVBrBq5PY?usp=sharing)
 
+## Ссылка на презентацию ВКР
+
+[Презентация](https://docs.google.com/presentation/d/1LQr203NCqcQ59wtwa7ud-9Bj8uUtU_n7NgbsyV2JWHk/edit?usp=sharing)
+
 ## Ссылки на источники
 
 1. [Статья по анонимизации данных](https://dspace.cvut.cz/bitstream/handle/10467/95046/F8-BP-2021-Jenicek-Jan-thesis.pdf?sequence=-1&isAllowed=y)
